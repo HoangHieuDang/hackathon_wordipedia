@@ -1,0 +1,31 @@
+––––– Instructions –––––
+
+1.  A "number of players" will be input.
+
+2.  All the players will be requested to input their "names".
+
+3.  All the players receive the same "random word" 
+    and "initial Wikipedia article" page.
+
+4.  There will be 1-3 rounds. In each round the players will
+    either choose to "stay" at that Wikipedia page, or to 
+    "skip" to another Wikipedia article:
+
+    - If the player chooses to "stay" (1) at that Wikipedia
+    article, they will wait until the other players are
+    finished.
+    - If the player chooses to "skip" (2) to the next round,
+    they will be able to choose an index number from a 
+    randomly generated list of Wikipedia articles.
+
+5.  The game will end when every player has either chosen to:
+    - "stay" in the first option/round
+    - "skip" in the first option/round, and stay in the second
+    - "skip" two time, and "stay" by default in the third option
+
+6.  The number of occurrences of the given random word will be
+    calculated across all player’s Wikipedia article of their
+    choice.
+
+7.  The winner with the highest occurrence of the given word
+    will then be announced!

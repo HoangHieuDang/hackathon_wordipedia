@@ -1,0 +1,8 @@
+–––––––– Rules ––––––––
+
+* The player/s will only have up to two "skips"
+* There are only two possible inputs to choose:
+            to "skip" or to "stay"
+* After a "skip" the player must choose an index
+  from a randomly generated list of Wikipedia
+  article pages
